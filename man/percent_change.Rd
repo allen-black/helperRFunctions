@@ -14,6 +14,3 @@ percent_change(old, new)
 \description{
 This compares change between two values.
 }
-\examples{
-percent_change()
-}
